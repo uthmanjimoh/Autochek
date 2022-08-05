@@ -1,0 +1,12 @@
+{
+  "login_data":{
+    "valid_email": "kunlejimoh0@gmail.com",
+    "valid_password": "D@ncer1999",
+    "incorrect_email": "kunlejimoh012@gmail.com",
+    "incorrect_password": "Young123"
+  },
+  "register_data":{
+    "existing_email": "kunlejimoh0@gmail.com",
+    "existing_phoneNo": "8169786717"
+  }
+}

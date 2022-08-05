@@ -1,0 +1,8 @@
+{
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 10000,
+    "pageLoadTimeout": 30000,
+    "baseUrl": "https://autochek.africa/ng",
+    "watchForFileChanges": true,
+    "projectId": "ga1y43"
+}
